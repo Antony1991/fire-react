@@ -1,0 +1,4 @@
+package.json
+node_modules
+lint-staged.config.js
+commitlint.config.js
