@@ -38,12 +38,15 @@ module.exports = {
     'prettier/prettier': ['error'],
     'react/jsx-filename-extension': 0,
     'import/no-extraneous-dependencies': 0,
+    'react/no-children-prop': 0,
     'react/function-component-definition': 0,
     'import/prefer-default-export': 0,
     'no-use-before-define': 0,
     'import/extensions': 0,
     'import/no-unresolved': 0,
     'react/button-has-type': 0,
+    'no-restricted-syntax': 0,
+    'guard-for-in': 0,
     'no-multi-assign': 0, // 禁止连续赋值
     'no-cond-assign': 0, // 禁止条件表达式出现赋值操作符
   },
